@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a website project carried out during the course "100 Days of Code: The Complete Python Pro Bootcamp for 2022" for learning purposes.
+
 <!--
 **k1ngS/k1ngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
